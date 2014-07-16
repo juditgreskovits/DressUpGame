@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<patterns>
+     <pattern id="1" doll="2" category="4" assetClassName="fatima_pattern_hat_01"/>
+     <pattern id="2" doll="2" category="4" assetClassName="fatima_pattern_hat_02"/>
+     <pattern id="3" doll="2" category="1" assetClassName="fatima_pattern_top_short"/>
+     <pattern id="4" doll="2" category="1" assetClassName="fatima_pattern_top_long"/>
+     <pattern id="5" doll="2" category="2" assetClassName="fatima_pattern_bottom_trousers"/>
+     <pattern id="6" doll="2" category="2" assetClassName="fatima_pattern_bottom_skirt"/>
+     <pattern id="7" doll="1" category="4" assetClassName="sahar_pattern_hat_01"/>
+     <pattern id="8" doll="1" category="4" assetClassName="sahar_pattern_hat_02"/>
+     <pattern id="9" doll="1" category="1" assetClassName="sahar_pattern_top_short"/>
+     <pattern id="10" doll="1" category="1" assetClassName="sahar_pattern_top_long"/>
+     <pattern id="11" doll="1" category="2" assetClassName="sahar_pattern_bottom_trousers"/>
+     <pattern id="12" doll="1" category="2" assetClassName="sahar_pattern_skirt"/>
+     <pattern id="13" doll="3" category="4" assetClassName="yasmin_pattern_hat_01"/>
+     <pattern id="14" doll="3" category="4" assetClassName="yasmin_pattern_hat_02"/>
+     <pattern id="15" doll="3" category="1" assetClassName="yasmin_pattern_top_short"/>
+     <pattern id="16" doll="3" category="1" assetClassName="yasmin_pattern_top_long"/>
+     <pattern id="17" doll="3" category="2" assetClassName="yasmin_pattern_bottom_trousers"/>
+     <pattern id="18" doll="3" category="2" assetClassName="yasmin_pattern_skirt"/>
+</patterns>

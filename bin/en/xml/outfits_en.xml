@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<outfits>
+     <outfit id="outfit_tennis" doll="1" outfitAssetClassName="outfit_tennis" locationId="tennis_court"><![CDATA[Tennis Gear]]></outfit>
+     <outfit id="outfit_beach" doll="1" outfitAssetClassName="outfit_beach" locationId="beach"><![CDATA[Beach Wear]]></outfit>
+     <outfit id="outfit_birthday" doll="1" outfitAssetClassName="outfit_birthday" locationId="birthday_party"><![CDATA[Party Time]]></outfit>
+     <outfit id="outfit_gym" doll="2" outfitAssetClassName="outfit_gym" locationId="gym"><![CDATA[Gym Clothes]]></outfit>
+     <outfit id="outfit_prom" doll="2" outfitAssetClassName="outfit_prom" locationId="prom"><![CDATA[Prom Queen]]></outfit>
+     <outfit id="outfit_henna" doll="2" outfitAssetClassName="outfit_henna" locationId="henna"><![CDATA[Traditional Henna]]></outfit>
+     <outfit id="outfit_football" doll="3" outfitAssetClassName="outfit_football" locationId="stadium"><![CDATA[Soccer Fan]]></outfit>
+     <outfit id="outfit_paris" doll="3" outfitAssetClassName="outfit_paris" locationId="paris"><![CDATA[La Parisienne]]></outfit>
+     <outfit id="outfit_chef" doll="3" outfitAssetClassName="outfit_chef" locationId="restaurant"><![CDATA[Chef's Uniform]]></outfit>
+</outfits>

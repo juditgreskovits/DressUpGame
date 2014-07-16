@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<locations>
+     <location id="noun" locationAssetClassName="noun"><![CDATA[ Noun Set]]></location>
+     <location id="new_york" locationAssetClassName="new_york"><![CDATA[New York]]></location>
+     <location id="london" locationAssetClassName="london"><![CDATA[London]]></location>
+     <location id="red_carpet" locationAssetClassName="red_carpet"><![CDATA[Red Carpet]]></location>
+     <location id="fashion_runway" locationAssetClassName="fashion_runway"><![CDATA[Fashion Runway]]></location>
+     <location id="tennis_court" locationAssetClassName="tennis_court"><![CDATA[Tennis Court]]></location>
+     <location id="beach" locationAssetClassName="beach"><![CDATA[The Beach]]></location>
+     <location id="birthday_party" locationAssetClassName="birthday_party"><![CDATA[Birthday Party]]></location>
+     <location id="gym" locationAssetClassName="gym"><![CDATA[Gym]]></location>
+     <location id="prom" locationAssetClassName="prom"><![CDATA[The Prom]]></location>
+     <location id="henna" locationAssetClassName="henna"><![CDATA[Salon]]></location>
+     <location id="stadium" locationAssetClassName="stadium"><![CDATA[Football Stadium]]></location>
+     <location id="paris" locationAssetClassName="paris"><![CDATA[Paris]]></location>
+     <location id="restaurant" locationAssetClassName="restaurant"><![CDATA[5 Star Restaurant]]></location>
+</locations>

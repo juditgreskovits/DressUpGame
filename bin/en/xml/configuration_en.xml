@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+     <LoaderMax name="DressUpGameLoader" load="true" prependURLs="">
+		<XMLLoader name="copyLoader" url="en/xml/copy_en.xml"/>
+		<XMLLoader name="clothesLoader" url="en/xml/clothes.xml"/>
+		<XMLLoader name="outfitsLoader" url="en/xml/outfits_en.xml"/>
+		<XMLLoader name="locationsLoader" url="en/xml/locations_en.xml"/>		
+		<XMLLoader name="patternsLoader" url="en/xml/patterns.xml"/>
+		<SWFLoader name="fontLoader" url="en/swf/Fonts_en.swf"/>
+	</LoaderMax>
+</configuration>

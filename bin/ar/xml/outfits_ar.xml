@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<outfits>
+     <outfit id="outfit_tennis" doll="1" outfitAssetClassName="outfit_tennis" locationId="tennis_court"><![CDATA[مستلزمات التنس]]></outfit>
+     <outfit id="outfit_beach" doll="1" outfitAssetClassName="outfit_beach" locationId="beach"><![CDATA[ملابس الشاطئ]]></outfit>
+     <outfit id="outfit_birthday" doll="1" outfitAssetClassName="outfit_birthday" locationId="birthday_party"><![CDATA[وقت الحفلة]]></outfit>
+     <outfit id="outfit_gym" doll="2" outfitAssetClassName="outfit_gym" locationId="gym"><![CDATA[ملابس الرياضة]]></outfit>
+     <outfit id="outfit_prom" doll="2" outfitAssetClassName="outfit_prom" locationId="prom"><![CDATA[حفل التخرج]]></outfit>
+     <outfit id="outfit_henna" doll="2" outfitAssetClassName="outfit_henna" locationId="henna"><![CDATA[حنة تقليدية]]></outfit>
+     <outfit id="outfit_football" doll="3" outfitAssetClassName="outfit_football" locationId="stadium"><![CDATA[مشجعة كرة القدم]]></outfit>
+     <outfit id="outfit_paris" doll="3" outfitAssetClassName="outfit_paris" locationId="paris"><![CDATA[ الباريسية]]></outfit>
+     <outfit id="outfit_chef" doll="3" outfitAssetClassName="outfit_chef" locationId="restaurant"><![CDATA[زي الطاهية]]></outfit>
+</outfits>

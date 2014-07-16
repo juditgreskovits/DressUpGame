@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<locations>
+     <location id="noun" locationAssetClassName="noun"><![CDATA[طاقم برنامج نون]]></location>
+     <location id="new_york" locationAssetClassName="new_york"><![CDATA[نيويورك]]></location>
+     <location id="london" locationAssetClassName="london"><![CDATA[لندن]]></location>
+     <location id="red_carpet" locationAssetClassName="red_carpet"><![CDATA[حفل السجادة الحمراء]]></location>
+     <location id="fashion_runway" locationAssetClassName="fashion_runway"><![CDATA[منصة عرض الأزياء]]></location>
+     <location id="tennis_court" locationAssetClassName="tennis_court"><![CDATA[ملعب التنس]]></location>
+     <location id="beach" locationAssetClassName="beach"><![CDATA[الشاطئ]]></location>
+     <location id="birthday_party" locationAssetClassName="birthday_party"><![CDATA[حفلة يوم  الميلاد]]></location>
+     <location id="gym" locationAssetClassName="gym"><![CDATA[النادي الرياضي]]></location>
+     <location id="prom" locationAssetClassName="prom"><![CDATA[حفل التخرج]]></location>
+     <location id="henna" locationAssetClassName="henna"><![CDATA[صالون التجميل]]></location>
+     <location id="stadium" locationAssetClassName="stadium"><![CDATA[ملعب كرة القدم]]></location>
+     <location id="paris" locationAssetClassName="paris"><![CDATA[باريس]]></location>
+     <location id="restaurant" locationAssetClassName="restaurant"><![CDATA[مطعم خمس نجوم]]></location>
+</locations>
